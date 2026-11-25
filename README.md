@@ -70,8 +70,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** Aman Nair  
-- **Register No:** 212225240008
+- **Name:** Prasanth T  
+- **Register No:** 212224040243
 
 
 ~~~python
